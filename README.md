@@ -1,2 +1,16 @@
-# SWYNEX-Project-Architecture
-Full-stack Local Service Finder - project architecture and starter repo
+# Local Service Finder - Project Architecture
+
+A small full-stack web application where people can find local service providers and leave reviews.
+
+## Tech Stack
+- Frontend: React
+- Backend: Node.js + Express
+- Database: MongoDB
+
+## Folder Structure
+- client/ - React frontend
+- server/ - Express API
+- docs/ - Architecture document
+
+## Author
+Nashha Nisam
